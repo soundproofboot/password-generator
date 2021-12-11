@@ -13,6 +13,10 @@ Screenshot of a 20 character password generated from all character sets.
 
 ![screenshot of deployment](assets/imgs/password-generator-screenshot.png)
 
+Deployed application found here -
+
+https://soundproofboot.github.io/password-generator/
+
 ## Credits
 
 HTML and CSS were provided by U of M Bootcamp.
