@@ -11,7 +11,7 @@ This generator could be used by anyone to generate secure passwords.
 
 Screenshot of a 20 character password generated from all character sets.
 
-![screenshot of deployment](assets/imgs/password-generator-screenshot.png)
+![screenshot of deployment](password-generator-screenshot.png)
 
 Deployed application found here -
 
